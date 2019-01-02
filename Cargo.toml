@@ -5,7 +5,7 @@ authors = ["pekanius"]
 edition = "2018"
 description = "Simple rust crate that translates text to $cr!pt |{!dd!3 style"
 exclude = ["examples/*"]
-keywords = ["fun", "funny", "script", "kiddie", "l33t", "leet", "speak"]
+keywords = ["fun", "funny", "kiddie", "leet", "speak"]
 categories = ["text-processing"]
 
 repository = "https://github.com/pekanius/skiddie"
