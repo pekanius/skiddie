@@ -1,2 +1,2 @@
-# skiddie
-#3ll0 w0rld!!!
+# Skiddie
+Simple rust crate that translates text to $cr!pt |{!dd!3 style.
