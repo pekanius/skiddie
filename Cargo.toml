@@ -1,0 +1,7 @@
+[package]
+name = "skiddie"
+version = "0.1.0"
+authors = ["pekanius"]
+edition = "2018"
+
+[dependencies]
